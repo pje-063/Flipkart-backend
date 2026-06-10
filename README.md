@@ -1,14 +1,48 @@
-# Node.js template
+🛒 Flipkart Clone Web Application
 
-This is a Node.js project with an HTTP server.
+A Flipkart-inspired e-commerce web application developed using React.js, Node.js, Express.js, and MongoDB. The project aims to replicate the core functionalities of an online shopping platform, providing users with an intuitive and responsive shopping experience. Users can browse products, explore categories, search for items, and view product details through a clean and user-friendly interface.
 
-Add your [configuration](https://codesandbox.io/docs/projects/learn/setting-up/tasks) to optimize it for [CodeSandbox](https://codesandbox.io).
+🚀 Features
 
-## How does this work?
+- Product Listing and Display
+- Category-wise Product Navigation
+- Search Functionality
+- Responsive User Interface
+- Image Carousel/Banner Section
+- REST API Integration
+- Mobile-Friendly Design
 
-We run `yarn start` to start an HTTP server that runs on http://localhost:8080. You can open new or existing devtools with the + button next to the devtool tabs.
+🛠️ Tech Stack
 
-## Resources
+Frontend
 
-- [CodeSandbox — Docs](https://codesandbox.io/docs)
-- [CodeSandbox — Discord](https://discord.gg/Ggarp3pX5H)
+- React.js
+- HTML5
+- CSS3
+- JavaScript
+
+Backend
+
+- Node.js
+- Express.js
+
+Database
+
+- MongoDB
+
+Deployment
+
+- Netlify
+- Render
+
+
+
+🎯 Project Objectives
+
+- To understand full-stack web development.
+- To build a responsive e-commerce application.
+- To learn REST API integration between frontend and backend.
+- To gain experience with deployment platforms such as Netlify and Render.
+
+
+
