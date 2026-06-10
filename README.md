@@ -46,3 +46,5 @@ Deployment
 
 
 
+## Project Screenshot
+![Flipkart clone](image/Flipkart.jpeg)
